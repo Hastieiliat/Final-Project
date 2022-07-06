@@ -11,6 +11,7 @@ Relationship between crimes and location in 2021 at Austin, Texas
 
 The data for our project was retrieved from https://catalog.data.gov 
 The specific data set is Crime Reports in the city of Austin, Texas https://catalog.data.gov/dataset/crime-reports-bf2b7
+Our Data is "Crime_Reports.csv" file. 
 
 #### Perform exploratory data analysis
 
@@ -42,8 +43,18 @@ We make main repository, "Final_Project" and each team member has one repositary
 
 
 ## 3. Create a mockup of a machine learning model.
+With our knowledge of machine learning and neural networks, we used the features in the provided dataset to create a binary classifier that is capable of predicting whether applicants will be successful for helping police to predict the crime at specific time zone and locations.
+
+The preprocessed data is split into features and target arrays, training and testing datasets and also the numerical values have been standardized using the StandardScaler() module. 
+
+![image](https://user-images.githubusercontent.com/100230706/177637814-2d98d2ed-16c7-4c17-adf1-abc6ad5327a1.png)
+
+
+Create a 3D scatter plot using the Plotly Express scatter_3d() function to plot the three clusters from the DataFrame.
 
 <img width="966" alt="Screen Shot 2022-07-05 at 9 26 54 PM" src="https://user-images.githubusercontent.com/99656224/177447841-45fcbcd2-6f48-419b-854e-2401cd2eda57.png">
+
+Also, we create an elbow curve to find the best value for K:
 
 <img width="947" alt="Screen Shot 2022-07-06 at 4 18 32 PM" src="https://user-images.githubusercontent.com/99656224/177635808-4de8b167-9531-4412-9451-f49432dabd7e.png">
 
