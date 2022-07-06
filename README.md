@@ -45,6 +45,8 @@ We make main repository, "Final_Project" and each team member has one repositary
 
 <img width="966" alt="Screen Shot 2022-07-05 at 9 26 54 PM" src="https://user-images.githubusercontent.com/99656224/177447841-45fcbcd2-6f48-419b-854e-2401cd2eda57.png">
 
+<img width="947" alt="Screen Shot 2022-07-06 at 4 18 32 PM" src="https://user-images.githubusercontent.com/99656224/177635808-4de8b167-9531-4412-9451-f49432dabd7e.png">
+
 
 ## 4. Create a mockup of a database.
 
