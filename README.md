@@ -22,6 +22,7 @@ After the data was downloaded, it was filtered to better match the vision of the
   * Latitude
   * Longitude
   * Location (latitude and longitude) 
+
 Next rows were deleted to only show the reportable crime data for the year 2021 in the city of Austin, Texas. After these filtering processes we had over 54000 records. The data was uploaded to Jupyter Notebook where null values were dropped. The shape of the remaining data is as follows: 
   
  <img width="656" alt="image" src="https://user-images.githubusercontent.com/99268646/177450389-63334cb9-fd1d-4c2d-a9a3-18fc4bcab1f1.png">
