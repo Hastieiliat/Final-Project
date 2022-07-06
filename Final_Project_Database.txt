@@ -1,0 +1,18 @@
+Crime_Data
+-
+incident_no int
+highest_offense_description varchar
+occurred_date date
+occurred_time time
+report_date date
+report_time time
+location_type varchar
+address address
+zip_code int
+census_tract int
+clearance_date date
+x_coordinate int
+y_coordinate int
+latitude int
+longitude int
+location int
