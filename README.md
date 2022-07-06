@@ -5,7 +5,7 @@ Final Challenge 20
 
 #### Topic: 
 
-Relationship between Crimes and location in 2021 at Austin, Texas
+Relationship between crimes and location in 2021 at Austin, Texas
 
 #### Source data:
 
@@ -55,7 +55,7 @@ The data was uploaded to Jupyter Notebook where null values were dropped. The sh
 
 ## 5. Decide which technologies will be used.
 
-We are going to use Machine learning and Jupyter notebook. Also we will use Map GeoJSON for showing which crime happened in which lication and also compare the time between crimes.
+We are going to use Machine learning and Jupyter notebook. Also we will use Map GeoJSON for showing which crime happened in which location and also compare the time between crimes.
 
 ![image](https://user-images.githubusercontent.com/100230706/177631021-dc5f7986-5b4c-4a66-af50-e126e8536562.png)
 
