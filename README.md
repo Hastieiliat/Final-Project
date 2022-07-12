@@ -1,5 +1,5 @@
 # Final-Project
-First Segment Challenge 20
+# First Segment Challenge 20
 
 ## 1. Decide on a topic, source data, and perform exploratory data analysis.
 
@@ -66,7 +66,13 @@ The data was uploaded to Jupyter Notebook where null values were dropped. The sh
 <img width="656" alt="image" src="https://user-images.githubusercontent.com/99268646/177450389-63334cb9-fd1d-4c2d-a9a3-18fc4bcab1f1.png">
 
 
+
 ## 5. Decide which technologies will be used.
+
+
+
+
+
 
 We are going to use Machine learning and Jupyter notebook. Also we will use Map GeoJSON for showing which crime happened in which location and also compare the time between crimes.
 
@@ -76,3 +82,20 @@ We are going to use Machine learning and Jupyter notebook. Also we will use Map 
 
 
 
+# Second Segment Challenge 20
+
+In this segment, we are going to present:
+
+### Selected topic
+Relationship between crimes and location in 2021 at Austin, Texas
+
+### Reason topic was selected
+We are interested to see the number of cr
+### Description of the source of data
+### Questions the team hopes to answer with the data
+### Description of the data exploration phase of the project
+### Description of the analysis phase of the project
+
+
+
+![image](https://user-images.githubusercontent.com/100230706/178614010-04f42b86-6f64-4539-9d30-48567534c9ca.png)
