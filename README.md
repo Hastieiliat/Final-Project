@@ -85,19 +85,69 @@ We are going to use Machine learning and Jupyter notebook. Also we will use Map 
 
 # Second Segment Challenge 20
 
+## 1. GitHub Repository
+
 In this segment, we are going to present:
 
-### Selected topic
+#### Selected topic
 Relationship between crimes and location in 2021 at Austin, Texas
 
-### Reason topic was selected
-We are interested to see the number of cr
-### Description of the source of data
-### Questions the team hopes to answer with the data
-### Description of the data exploration phase of the project
-### Description of the analysis phase of the project
+#### Reason topic was selected
+We are interested to see the number of crime and location in 2021 at Austin, Texas. 
 
 
+#### Description of the source of data,  Questions the team hopes to answer with the data, Description of the data exploration phase of the project, and Description of the analysis phase of the project
+
+Explained in the first segment
+
+The responsibilities of each team member in the second segments are:
 
 ![image](https://user-images.githubusercontent.com/100230706/178614010-04f42b86-6f64-4539-9d30-48567534c9ca.png)
+
+## 2. Machine Learning Model 
+#### Description of preliminary data preprocessing
+
+![image](https://user-images.githubusercontent.com/100230706/178618516-9ea36ccf-805d-4364-939d-e009cc77085f.png)
+
+
+#### Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+
+![image](https://user-images.githubusercontent.com/100230706/178618802-49726d89-559d-4a0c-86c2-9f8b61e5be19.png)
+
+#### Description of how data was split into training and testing sets
+
+![image](https://user-images.githubusercontent.com/100230706/178619012-836608c6-7a67-4ebf-9a01-67554971b08d.png)
+
+#### Explanation of model choice, including limitations and benefits
+
+![image](https://user-images.githubusercontent.com/100230706/178619371-c233edc0-3cac-4874-a0a7-3689c66f404e.png)
+
+
+
+## 3. Database Integration
+
+#### Database stores static data for use during the project
+
+![image](https://user-images.githubusercontent.com/100230706/178621765-24ebceea-56ad-4000-9392-af35641d555c.png)
+
+#### Database interfaces with the project in some format (e.g., scraping updates the database)
+
+![image](https://user-images.githubusercontent.com/100230706/178622018-c65fe195-7391-4fff-be90-1159a0fb7bd7.png)
+
+
+#### Includes at least two tables (or collections, if using MongoDB)
+
+![image](https://user-images.githubusercontent.com/100230706/178622176-4c7049a4-91a2-48d7-9e13-173fb1d8727c.png)
+
+
+#### Includes at least one join using the database language (not including any joins in Pandas)
+
+![image](https://user-images.githubusercontent.com/100230706/178622226-e9095f46-dc47-4ae3-a3b4-6928b9777c56.png)
+
+
+#### Includes at least one connection string (using SQLAlchemy or PyMongo)
+
+![image](https://user-images.githubusercontent.com/100230706/178622280-a8cef433-6e18-4eae-a59d-65d8c2f89c19.png)
+
+![image](https://user-images.githubusercontent.com/100230706/178622320-47edc957-a742-43a7-b725-c4dce968cb63.png)
 
