@@ -85,7 +85,12 @@ We are going to use Machine learning and Jupyter notebook. Also we will use Map 
 
 # Second Segment Challenge 20
 
-## 1. GitHub Repository
+## 1. Presentation
+
+Here is the link for the presentation:
+https://docs.google.com/presentation/d/1U1xEQS2jriyLN-MJS_TyBRhhyksQXpIukgu1iB6mET8/edit
+
+## 2. GitHub Repository
 
 In this segment, we are going to present:
 
@@ -104,7 +109,7 @@ The responsibilities of each team member in the second segments are:
 
 ![image](https://user-images.githubusercontent.com/100230706/178614010-04f42b86-6f64-4539-9d30-48567534c9ca.png)
 
-## 2. Machine Learning Model 
+## 3. Machine Learning Model 
 #### Description of preliminary data preprocessing
 
 ![image](https://user-images.githubusercontent.com/100230706/178618516-9ea36ccf-805d-4364-939d-e009cc77085f.png)
@@ -124,7 +129,7 @@ The responsibilities of each team member in the second segments are:
 
 
 
-## 3. Database Integration
+## 4. Database Integration
 
 #### Database stores static data for use during the project
 
@@ -150,4 +155,7 @@ The responsibilities of each team member in the second segments are:
 ![image](https://user-images.githubusercontent.com/100230706/178622280-a8cef433-6e18-4eae-a59d-65d8c2f89c19.png)
 
 ![image](https://user-images.githubusercontent.com/100230706/178622320-47edc957-a742-43a7-b725-c4dce968cb63.png)
+
+
+
 
