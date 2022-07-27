@@ -155,7 +155,3 @@ The responsibilities of each team member in the second segments are:
 ![image](https://user-images.githubusercontent.com/100230706/178622280-a8cef433-6e18-4eae-a59d-65d8c2f89c19.png)
 
 ![image](https://user-images.githubusercontent.com/100230706/178622320-47edc957-a742-43a7-b725-c4dce968cb63.png)
-
-
-
-
